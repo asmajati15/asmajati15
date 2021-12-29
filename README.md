@@ -9,9 +9,18 @@
 
 - ⚡ Fun fact **I'm a car spotter & bus lovers**
 
+<h3>My Workspace</h3>
+<div class="table">
+  <tr>
+    <td>Windows 11</td>
+    <td>AMD A8 7680</td>
+    <td>AMD R7 200 Series</td>
+  </tr>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/asmajati ananto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmajati ananto" height="30" width="40" /></a>
+<a href="https://fb.com/anantobismania.oioi.702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmajati ananto" height="30" width="40" /></a>
 <a href="https://instagram.com/asmajati_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asmajati_15" height="30" width="40" /></a>
 </p>
 
