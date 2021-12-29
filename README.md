@@ -9,14 +9,6 @@
 
 - ⚡ Fun fact **I'm a car spotter & bus lovers**
 
-<h3>My Workspace</h3>
-<div class="table">
-  <tr>
-    <td>Windows 11</td>
-    <td>AMD A8 7680</td>
-    <td>AMD R7 200 Series</td>
-  </tr>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
