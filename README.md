@@ -12,9 +12,9 @@
 <h3>My Workspace</h3>
 <div class="table">
   <tr>
-    <td><p>Windows 11 | </p></td>
-    <td><p>AMD A8 7680 | </p></td>
-    <td><p>AMD R7 200 Series</p></td>
+    <td>Windows 11</td>
+    <td>AMD A8 7680</td>
+    <td>AMD R7 200 Series</td>
   </tr>
 </div>
 
