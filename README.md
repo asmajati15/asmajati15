@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @asmajati15
+- 🌱 I’m currently learning Everything
