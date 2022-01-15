@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm a car spotter & bus lovers**
 
-<h3 align="center">My workspace</h3>
+<h3>My workspace</h3>
 
 ![](https://img.shields.io/badge/AMD-A8_7680-informational?style=for-the-badge&logo=amd&logoColor=white&color=ED1C24)
 ![](https://img.shields.io/badge/AMD-Radeon_R7_240-informational?style=for-the-badge&logo=amd&logoColor=white&color=ED1C24)
