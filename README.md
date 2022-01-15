@@ -10,7 +10,6 @@
 - ⚡ Fun fact **I'm a car spotter & bus lovers**
 
 ![](https://img.shields.io/badge/<AMD>-<A8 7680>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<AMD>-<Radeon R7 240>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
