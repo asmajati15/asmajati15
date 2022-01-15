@@ -9,6 +9,7 @@
 
 - ⚡ Fun fact **I'm a car spotter & bus lovers**
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
