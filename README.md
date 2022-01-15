@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm a car spotter & bus lovers**
 
-![](https://img.shields.io/badge/AMD-A8_7680-informational?style=flat&logo=<AMD>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AMD-A8_7680-informational?style=for-the-badge&logo=appveyor&logoColor=white&color=2bbc8a)
 
 
 <h3 align="left">Connect with me:</h3>
