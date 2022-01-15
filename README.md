@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/AMD-Radeon_R7_240-informational?style=for-the-badge&logo=amd&logoColor=white&color=ED1C24)
 ![](https://img.shields.io/badge/Microsoft-Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Microsoft-Windows_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <h3 align="left">Connect with me:</h3>
