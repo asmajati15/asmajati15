@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmajati15&label=Profile%20views&color=0e75b6&style=flat" alt="asmajati15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmajati15&theme=discord" alt="asmajati15" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmajati15&theme=tokyonight" alt="asmajati15" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amnv_15" target="blank"><img src="https://img.shields.io/twitter/follow/amnv_15?logo=twitter&style=for-the-badge" alt="amnv_15" /></a> </p>
 
@@ -14,6 +14,14 @@
 - 📫 How to reach me **asmajati.cooler15@gmail.com**
 
 - ⚡ Fun fact **I'm a car spotter and motorsport enthusiast**
+
+<h3>My workspace</h3>
+
+![](https://img.shields.io/badge/A8-7680-informational?style=for-the-badge&logo=amd&logoColor=white&color=ED1C24)
+![](https://img.shields.io/badge/Radeon-R7_240-informational?style=for-the-badge&logo=amd&logoColor=white&color=ED1C24)
+![](https://img.shields.io/badge/GTX-1050-informational?style=for-the-badge&logo=nvidia&logoColor=white&color=76B900)
+![](https://img.shields.io/badge/Windows-11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Ubuntu-22.04-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=dd4814)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
