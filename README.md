@@ -19,8 +19,7 @@
 
 ![](https://img.shields.io/badge/A8-7680-informational?style=for-the-badge&logo=amd&logoColor=white&color=ED1C24)
 ![](https://img.shields.io/badge/GTX-1050-informational?style=for-the-badge&logo=nvidia&logoColor=white&color=76B900)
-![](https://img.shields.io/badge/Windows-11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
-![](https://img.shields.io/badge/Ubuntu-22.04-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=dd4814)
+![](https://img.shields.io/badge/Windows-10-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
